@@ -6,6 +6,7 @@ This graph describes the problem that we are trying to solve visually. We want t
 
 ![Hand Written Digits Classification](images/1_1.png)
 
+## Results
 
 Accuracy Score: 0.9707 <br>
 Confusion Matrix: <br>
