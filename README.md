@@ -1,4 +1,4 @@
-# Task 1: Introduction
+# Handwritten Digit Recognition Using Neural Networks
 
 Welcome to Basic Image Classification with TensorFlow.
 
